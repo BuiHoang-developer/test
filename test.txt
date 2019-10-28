@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello I am test !
+=======
+Hello
+>>>>>>> parent of 2ff1fe0... commit test.txt and readme.txt
