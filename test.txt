@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Hello! I am test !
 
+=======
+<<<<<<< HEAD
+Hello I am test !
+=======
+Hello
+>>>>>>> parent of 2ff1fe0... commit test.txt and readme.txt
+>>>>>>> parent of a3cb782... backup
